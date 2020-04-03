@@ -4,14 +4,14 @@ procedure Bordar(color) {
 	}
 }
 
-function hiloAmarillo {
+function hiloAmarillo() {
 	return Rojo
 }
 
-function hiloCeleste {
+function hiloCeleste() {
 	return Azul
 }
 
-function hiloNegro {
+function hiloNegro() {
 	return Negro
 }
