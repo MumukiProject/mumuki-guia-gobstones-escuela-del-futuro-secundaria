@@ -1,0 +1,30 @@
+procedure Bordar(color) {
+	repeat(5) {
+		Poner(color)
+	}
+}
+
+function hiloAmarillo() {
+	return Rojo
+}
+
+function hiloCeleste() {
+	return Azul
+}
+
+function hiloNegro() {
+	return Negro
+}
+
+procedure BordarFranja {
+	Bordar(hiloCeleste())
+	while(puedeMover(Este)) {
+		Mover(Este)
+		Bordar(hiloCeleste())
+	}
+}
+
+BordarSol {
+	Bordar(hiloNegro)
+	Bordar(hiloAmarillo)
+}
