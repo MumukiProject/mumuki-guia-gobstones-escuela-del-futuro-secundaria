@@ -1,0 +1,17 @@
+procedure Bordar(color) {
+	repeat(5) {
+		Poner(color)
+	}
+}
+
+function hiloAmarillo {
+	return Rojo
+}
+
+function hiloCeleste {
+	return Azul
+}
+
+function hiloNegro {
+	return Negro
+}
