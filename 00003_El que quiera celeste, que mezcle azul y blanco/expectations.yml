@@ -21,3 +21,6 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: BordarFranja
   inspection: Uses:Bordar
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: BordarFranja
+  inspection: Uses:hiloCeleste
