@@ -5,15 +5,15 @@ procedure Bordar(color) {
 }
 
 function hiloAmarillo() {
-	return Rojo
+	return (Rojo)
 }
 
 function hiloCeleste() {
-	return Azul
+	return (Azul)
 }
 
 function hiloNegro() {
-	return Negro
+	return (Negro)
 }
 
 procedure BordarFranja {
