@@ -25,6 +25,6 @@ procedure BordarFranja {
 }
 
 BordarSol {
-	Bordar(hiloNegro)
-	Bordar(hiloAmarillo)
+	Bordar(hiloNegro())
+	Bordar(hiloAmarillo())
 }
