@@ -1,0 +1,1 @@
+Para mover la bandera (una bolita roja y una bolita azul), tenés que sacar las bolitas, moverte en la dirección que quieras y luego volver a ponerlas.
