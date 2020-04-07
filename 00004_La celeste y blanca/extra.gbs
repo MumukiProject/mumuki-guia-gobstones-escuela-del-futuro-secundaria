@@ -1,3 +1,5 @@
+/*...previousSolution...*/     
+
 procedure Bordar(color) {
 	repeat(5) {
 		Poner(color)
@@ -16,15 +18,7 @@ function hiloNegro() {
 	return (Negro)
 }
 
-procedure BordarFranja {
-	Bordar(hiloCeleste())
-	while(puedeMover(Este)) {
-		Mover(Este)
-		Bordar(hiloCeleste())
-	}
-}
-
-BordarSol {
+procedure BordarSol {
 	Bordar(hiloNegro())
 	Bordar(hiloAmarillo())
 }
