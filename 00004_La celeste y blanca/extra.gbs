@@ -1,4 +1,4 @@
-/*...previousSolution...*/     
+/*...previousSolution...*/        
 
 procedure Bordar(color) {
 	repeat(5) {
