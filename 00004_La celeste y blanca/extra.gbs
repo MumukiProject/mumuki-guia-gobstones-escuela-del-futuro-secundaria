@@ -1,5 +1,3 @@
-/*...previousSolution...*/        
-
 procedure Bordar(color) {
 	repeat(5) {
 		Poner(color)
