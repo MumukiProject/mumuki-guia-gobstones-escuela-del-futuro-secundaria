@@ -1,0 +1,1 @@
+Recordá que tenés el procedimiento `BordarSol` para usarlo cuando quieras y que ya hiciste y podés usar el procedimiento `BordarFranja`.
