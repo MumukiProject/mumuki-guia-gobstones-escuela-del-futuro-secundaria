@@ -16,7 +16,7 @@ function hiloNegro() {
 	return (Negro)
 }
 
-procedure BordarSol {
+procedure BordarSol() {
 	Bordar(hiloNegro())
 	Bordar(hiloAmarillo())
 }
