@@ -20,3 +20,11 @@ procedure BordarSol {
 	Bordar(hiloNegro())
 	Bordar(hiloAmarillo())
 }
+
+procedure BordarFranja() {
+  while(puedeMover(Este)) {
+    Bordar(hiloCeleste())
+    Mover(Este)
+  }
+  Bordar(hiloCeleste())
+}
