@@ -19,4 +19,4 @@ Ya tenemos todo listo para poder bordar la bandera entera :flag_ar:... Al proced
      head 0 0
 </gs-board>
 
-> Creá el programa para bordar la bandera argentina.
+> Dado el tablero anterior, creá el programa para bordar la bandera argentina.
