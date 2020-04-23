@@ -1,4 +1,4 @@
-<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-escuela-del-futuro-secundaria/master/assets/attires/config_1585944022913.json"></gs-attire>
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-escuela-del-futuro-secundaria/master/assets/attires/config_1587655040758.json"></gs-attire>
 
 Para hacer nuestra bandera :flag_ar:, vamos a usar la técnica de bordado. Si queremos hacer figuras, como por ejemplo el sol :sun_with_face:, lo mejor es hacer primero unas puntadas de referencia con hilo negro para que luego sea más fácil bordarlo. ¡Manos al hilo y la aguja!
 
