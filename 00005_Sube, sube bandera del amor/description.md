@@ -1,4 +1,4 @@
-<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-escuela-del-futuro-secundaria/master/assets/attires/config_1585944022913.json"></gs-attire>
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-escuela-del-futuro-secundaria/master/assets/attires/config_1587655040758.json"></gs-attire>
 
 Tenemos la bandera lista. Ya creamos el programa para bordarla, ahora nos toca crear el programa para izarla. ¡Manos al teclado! :keyboard:
 
